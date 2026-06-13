@@ -52,7 +52,9 @@ Solder the wires to the corresponding locations on the PCB (if you purchased the
 
 Wire manage and remove plastic in the remote plastic to accommodate the new wire and board.
 
+
 Code Instructions
+
 Replace the following files with the provided files.
 
 OMOTE-Firmware-main\hardware\ESP32\tft_hal_esp32.cpp
