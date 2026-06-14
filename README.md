@@ -3,13 +3,14 @@ FOLLOW THESE DIRECTIONS AT YOUR OWN RISK!
 If steps aren’t taken during the PCB ordering process (changing the display connector) you will need to do some SMD rework to change out the connector on your own PCB. This is tricky and can take a few tries to get right and not bridge the little pins on the display connector. Should you choose to continue, I’d recommend you get some extra display connectors while you’re ordering your displays!
 
 Required Parts List:
+
 Display (select: capacitive touch and get the “ZIF connector for display” as this will replace the current display connector): https://www.buydisplay.com/2-8-inch-tft-lcd-display-capacitive-touch-screen-st7789v-spi-240x320
 
 Display connector Top Contact (extras/if not ordered with the display): https://www.buydisplay.com/50-pin-0-5mm-pitch-top-contact-zif-connector-fpc-connector
 
 6 pin breakout (for touch controller): https://www.amazon.com/dp/B0DS6M7NKK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
-Wire (for connecting the breakout to the PCB, 5 connections needed would recommend each connection get its own color): https://www.amazon.com/dp/B0DS6M7NKK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+Wire (for connecting the breakout to the PCB, 5 connections needed would recommend each connection get its own color): https://a.co/d/0aZ3BOl7
 
 
 Tools I used: 
